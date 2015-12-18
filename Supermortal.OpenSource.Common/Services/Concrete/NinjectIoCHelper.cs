@@ -1,8 +1,8 @@
 ﻿using Ninject;
-using Supermortal.OpenSource.Common.Abstract;
 using Supermortal.OpenSource.Common.Models.Enums;
+using Supermortal.OpenSource.Common.Services.Abstract;
 
-namespace Supermortal.OpenSource.Common.Concrete
+namespace Supermortal.OpenSource.Common.Services.Concrete
 {
     public class NinjectIoCHelper : IIoCHelper
     {

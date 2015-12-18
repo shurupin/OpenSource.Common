@@ -1,6 +1,6 @@
-﻿using Supermortal.OpenSource.Common.Abstract;
-using Supermortal.OpenSource.Common.Helpers;
+﻿using Supermortal.OpenSource.Common.Helpers;
 using Supermortal.OpenSource.Common.Helpers.Log;
+using Supermortal.OpenSource.Common.Services.Abstract;
 
 namespace Supermortal.OpenSource.Common
 {

@@ -1,6 +1,6 @@
 ﻿using Supermortal.OpenSource.Common.Models.Enums;
 
-namespace Supermortal.OpenSource.Common.Abstract
+namespace Supermortal.OpenSource.Common.Services.Abstract
 {
   public interface IIoCHelper
   {
